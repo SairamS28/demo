@@ -1,5 +1,5 @@
 {
- [{
+ buyofuel: [{
       id: 1,
       image: 'https://reactnative.dev/img/tiny_logo.png',
       title: 'Bio-Diesel b-100',
