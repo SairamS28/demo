@@ -1,11 +1,37 @@
 {
-  "posts": [
+  "Buyofuel": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+      id: 1,
+      image: 'https://reactnative.dev/img/tiny_logo.png',
+      title: 'Bio-Diesel b-100',
+      quantity: '12,000 L /month',
+      price: '₹55 / L ',
+      location: 'Coimbatore',
+      seller: 'abc sellers',
+      rating: '4.5/5',
+    },
+    {
+      id: 2,
+      image: 'https://reactnative.dev/img/tiny_logo.png',
+      title: 'Bio-Diesel b-100',
+      quantity: '12,000 L /month',
+      price: '₹55 / L ',
+      location: 'Coimbatore',
+      seller: 'abc sellers',
+      rating: '4.5/5',
+    },
+    {
+      id: 3,
+      image: 'https://reactnative.dev/img/tiny_logo.png',
+      title: 'Bio-Diesel b-100',
+      quantity: '12,000 L /month',
+      price: '₹55 / L ',
+      location: 'Coimbatore',
+      seller: 'abc sellers',
+      rating: '4.5/5',
+    },
   ],
   "profile": {
-    "name": "typicode"
+    "name": "SairamS28"
   }
 }
